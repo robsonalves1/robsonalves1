@@ -1,6 +1,6 @@
-## Ei, me chamo Robson
+## I'm Robson
 
-- 🌱 Estou atualmente estudando desenvolvimento full-stack
+- 🌱 I'm current studying full-stack development
 
 ## Principais tecnologias:
 <div style="display: inline_block"><br>
