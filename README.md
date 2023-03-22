@@ -2,7 +2,7 @@
 
 - 🌱 I'm current studying full-stack development
 
-## Principais tecnologias:
+## Main technologies:
 <div style="display: inline_block"><br>
   <img align="center" alt="rob-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="rob-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
