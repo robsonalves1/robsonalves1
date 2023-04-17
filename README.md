@@ -1,6 +1,6 @@
 ## I'm Robson
 
-- 🌱 I'm current studying full-stack development
+- 🌱 Learning full-stack development
 
 ## Main technologies:
 <div style="display: inline_block"><br>
