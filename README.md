@@ -1,6 +1,6 @@
 ## I'm Robson
 
-- 🌱 Developing full-stack applications
+- 🌱 Developing web applications
 
 ## Main technologies:
 <div style="display: inline_block"><br>
