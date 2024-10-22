@@ -1,8 +1,6 @@
-## Hi, I'm Robson
-
 📍 Brazil
 
-* Working on great projects.
+* Always learning.
 
 ## Technologies:
 <div style="display: inline_block"><br>
