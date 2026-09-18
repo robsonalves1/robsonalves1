@@ -19,3 +19,10 @@ I love turning real-world problems into impactful projects.
 ### 🌍 Languages
 * **Portuguese:** Native
 * **English:** Advanced (C1)
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
