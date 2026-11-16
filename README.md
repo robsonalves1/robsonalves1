@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Robson
-I'm a **Computer Scient** student who loves turning real-world problems into impactful projects.
+I'm a **Computer Science** student who loves turning real-world problems into impactful projects.
 ### 🛠️ Tech Stack
 
 **Languages:**
