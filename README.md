@@ -1,3 +1,4 @@
+<!--
 # Hi there! 👋 I'm Robson
 I'm a **Computer Science** student who loves turning real-world problems into impactful projects.
 ### 🛠️ Tech Stack
@@ -32,8 +33,9 @@ I'm a **Computer Science** student who loves turning real-world problems into im
 ---
 
 ### 📚 Currently Reading
-<!-- Replace image URL with a stable link or repository asset -->
 <p align="left">
   <img src="https://learning.oreilly.com/library/cover/9781098133900/250w/" alt="Fundamentals of Software Architecture" width="100" style="margin-right: 15px;" />
   <img src="https://m.media-amazon.com/images/I/81xkjj+FAfL._UF1000,1000_QL80_.jpg" alt="Designing Data-Intensive Applications" width="100" />
 </p>
+
+-->
